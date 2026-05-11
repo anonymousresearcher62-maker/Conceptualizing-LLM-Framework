@@ -1,7 +1,6 @@
 # Motion Intent & LLM Orientation Body-Relative Guidance Understanding Paper Code
 Research Work Application for Body-Relative Guidance LLM Paper.
 
-Note to paper reviewers: All author info is anonymized.
 
 Here is the repo guide.
 
